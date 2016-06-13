@@ -14,6 +14,7 @@ It's an useful utility tool to check what resources are not being used in your X
 3. Click `Search` to start searching.
 4. Wait a second, the results will be shown in the tableview.
 5. If there are images that are not correct in the Unused/Used tab, select them, and click 'Switch'. (These changes will be saved the next time you run the search.)
+
 ## Feature
 
 Check `Ignore similar name` to ignore the resources which referenced by string concatenation.
