@@ -10,9 +10,10 @@ A Mac App to find unused images and resources in an XCode project. It is heavily
 It's an useful utility tool to check what resources are not being used in your Xcode projects. Very easy to use: 
 
 1. Click `Browse..` to select a project folder.
-2. Click `Search` to start searching.
-3. Wait a second, the results will be shown in the tableview.
-
+2. Optionally select a database file to find image names that are stored in it. (Will need to change table and column name in project if not ZAMENITY-ZICON_NAME).
+3. Click `Search` to start searching.
+4. Wait a second, the results will be shown in the tableview.
+5. If there are images that are not correct in the Unused/Used tab, select them, and click 'Switch'. (These changes will be saved the next time you run the search.)
 ## Feature
 
 Check `Ignore similar name` to ignore the resources which referenced by string concatenation.
