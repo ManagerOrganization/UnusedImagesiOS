@@ -1,5 +1,5 @@
 # LSUnusedResources
-A Mac App to find unused images and resources in an XCode project. It is heavily influenced by jeffhodnett‘s [Unused](http://jeffhodnett.github.io/Unused/), but Unused is very slow, and the results are not entirely correct. So I made some performance optimization, the search speed is more faster than Unused.
+A Mac App to find unused images and resources in an XCode project that was cloned from: [LSUnusedResources](https://github.com/tinymind/LSUnusedResources) with some slight modifications. His is heavily influenced by jeffhodnett‘s [Unused](http://jeffhodnett.github.io/Unused/), but Unused is very slow, and the results are not entirely correct. So I made some performance optimization, the search speed is more faster than Unused.
 
 ## Example
 
